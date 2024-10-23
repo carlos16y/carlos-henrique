@@ -6,3 +6,4 @@ Meu nome é Carlos Soares
 compartilhamento dos meus projetos desenvolvidos
 ![seu madruga
 ![chaves]((https://media1.tenor.com/m/MKNMKcJc7RsAAAAd/chaves-sorry.gif))
+- Estou estudando na [Alura](https://www.alura.com.br)
